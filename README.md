@@ -1,7 +1,5 @@
 # phonebook
-#### This is my bachelor's project for the Advanced Programming course at Guilan University.
-
-## In this project, we implemented a phonebook which has many features like:
+## In this project, I implemented a phonebook which has many features like:
 
 1. Adding contacts with their attributes such as name, phone number, birthday, and etc.
 1. Adding contacts in a special group like friends, family, etc...
